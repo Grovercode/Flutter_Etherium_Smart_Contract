@@ -1,16 +1,18 @@
-# blockchain_app
+# Blockchain_App 
+This repository contains the code for Quake app. 
 
-A new Flutter project.
+# Overview
+Made using linking etherium smart contract and metamask wallet on etherium testnet gorli servers. Implememnted it with flutter UI and animations.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot 2022-01-28 185934](https://user-images.githubusercontent.com/57047418/151580144-60d81655-7cec-4ef9-8afd-1f3eb37c7ecf.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/57047418/151580505-bb9bef4c-ec17-4378-8106-526b8b12a50f.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+# Download APK here
+
+https://drive.google.com/file/d/1vLMh51XAEeV0_b-Tqdsi999L87oHnH4v/view?usp=sharing
