@@ -1,8 +1,11 @@
 # Blockchain_App 
-This repository contains the code for Quake app. 
+A basic Finance manager.
 
 # Overview
-Made using linking etherium smart contract and metamask wallet on etherium testnet gorli servers. Implememnted it with flutter UI and animations.
+A basic Finance manager calculator made using linking etherium smart contract and metamask wallet on etherium testnet gorli servers, hosted on Infura.io and implememnted frontend with flutter.
+
+# Tech Stack
+Solidity , Dart, Android Studio , Remix IDE (Etherieum), Metamask, Infura.io   
 
 # Screenshots
 
@@ -10,9 +13,4 @@ Made using linking etherium smart contract and metamask wallet on etherium testn
 
 ![image](https://user-images.githubusercontent.com/57047418/151580505-bb9bef4c-ec17-4378-8106-526b8b12a50f.png)
 
-
-
-
-# Download APK here
-
-https://drive.google.com/file/d/1vLMh51XAEeV0_b-Tqdsi999L87oHnH4v/view?usp=sharing
+![image](https://user-images.githubusercontent.com/57047418/151581242-a899d9fb-367d-4939-9b19-af0773d83986.png)
