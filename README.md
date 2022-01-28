@@ -1,5 +1,5 @@
 # Blockchain_App 
-A basic Finance manager.
+A basic web 3.0 Calculator App using etherium and flutter.
 
 # Overview
 A basic Finance manager calculator made using linking etherium smart contract and metamask wallet on etherium testnet gorli servers, hosted on Infura.io and implememnted frontend with flutter.
